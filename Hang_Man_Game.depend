@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1791043499 source:d:\programming languages\c\hangman game\hang_man_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
