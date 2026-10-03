@@ -6,6 +6,7 @@
 #define MAX_LENGTH 20
 #define MAX_WRONG 6
 
+
 void displayHangman(int wrong);
 void displayWord(char word[], char guessed[], int guessedCount);
 int alreadyGuessed(char guessed[], int count, char letter);
